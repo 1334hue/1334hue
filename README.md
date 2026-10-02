@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡️️ Hi, I'm a Second Year IT student at PNU! a Full-Stack & Cloud engineer in the making! 👋<br>🔭 About Me:<br>🔭 I’m currently working on Full-stack web applications and cloud deployment <br>👯 I’m looking to collaborate on Open-source cloud tools, and hackathon projects<br>🤝 I’m looking for help with Advanced Infrastructure and deep Cloud Security practices<br>🌱 I’m currently learning: Cloud Engineering, SecDevOps <br>💻 Tech Stack & Tools<br>Languages: JavaScript (Node.js), Python, HTML5/CSS3, C<br>Cloud & DevOps: AWS (EC2, S3, Lambda, API Gateway, DynamoDB, Cognito), Git/GitHub<br>Databases & Frameworks: PostgreSQL, MySQL, Express, React
+⚡️️ Hi, I'm a Second Year IT student at PNU, a Full-Stack & Cloud engineer in the making! 👋<br>🔭 About Me:<br>🔭 I’m currently working on Full-stack web applications and cloud deployment <br>👯 I’m looking to collaborate on Open-source cloud tools, and hackathon projects<br>🤝 I’m looking for help with Advanced Infrastructure and deep Cloud Security practices<br>🌱 I’m currently learning Cloud Engineering, SecDevOps <br>💻 Tech Stack & Tools<br>Languages: JavaScript (Node.js), Python, HTML5/CSS3, C<br>Cloud & DevOps - AWS (EC2, S3, Lambda, API Gateway, DynamoDB, Cognito), Git/GitHub<br>Databases & Frameworks: PostgreSQL, MySQL, Express, React
 
 
 ## 🌐 Socials:
